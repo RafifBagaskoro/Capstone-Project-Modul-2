@@ -1,5 +1,5 @@
 # Deskripsi Proyek
-TSA Claims adalah dataset yang berisi informasi tentang klaim barang-barang yang hilang atau rusak oleh Transportation Security Administration (TSA) selama beberapa tahun terakhir. Tujuan proyek ini adalah untuk menganalisis dataset TSA Claims menggunakan teknik analisis data dan visualisasi, dengan tujuan mengidentifikasi pola dan tren dalam data yang dapat membantu meningkatkan keamanan dan kenyamanan dalam perjalanan udara.
+TSA Claims adalah dataset yang berisi informasi tentang klaim barang-barang yang hilang atau rusak oleh Transportation Security Administration (TSA) selama beberapa tahun terakhir. Tujuan proyek ini adalah untuk menganalisis dataset TSA Claims menggunakan teknik analisis data dan visualisasi, dengan tujuan mengidentifikasi pola dan tren dalam data yang dapat membantu meminimalisir terjadinya pembayaran klaim.
 
 # Data
 Data TSA Claims dapat ditemukan di situs web TSA Claims Data. Dataset ini tersedia dalam format CSV dan terdiri dari lebih dari 200.000 catatan klaim yang dilaporkan kepada TSA selama beberapa tahun terakhir data dapat diakses [Disini](https://drive.google.com/drive/folders/13SAQcA3QZ2FBclO1iOW31otlnBXHytYk).
