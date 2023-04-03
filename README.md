@@ -8,7 +8,7 @@ Tujuan dari analisa ini adalah untuk mengetahui tren dan pola pada data TSA Clai
 Data TSA Claims dapat ditemukan di situs web TSA Claims Data. Dataset ini tersedia dalam format CSV dan terdiri dari lebih dari 200.000 catatan klaim yang dilaporkan kepada TSA selama beberapa tahun terakhir data dapat diakses [Disini](https://drive.google.com/drive/folders/13SAQcA3QZ2FBclO1iOW31otlnBXHytYk).
 
 # Requirements
-Dalam project ini, kita akan menggunakan bahasa pemrograman Python untuk menganalisis dan memvisualisasikan data TSA Claims. Beberapa pustaka Python yang akan kami gunakan meliputi:
+Dalam project ini, kita akan menggunakan bahasa pemrograman Python untuk menganalisis dan memvisualisasikan data TSA Claims. Beberapa library Python yang akan di gunakan meliputi:
 
 - Pandas dan numpy untuk memanipulasi data
 - Matplotlib, Seaborn dan plotly untuk visualisasi data
